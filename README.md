@@ -4,6 +4,11 @@ poem-builder
 a poem builder by javascript.
 现代诗器 作诗机
 
+## Prime Poem Framework
+
+./js/PrimePoemFramework
+质数诗歌框架 - 现在仅是一个概念，需要不断增加内容
+
 ## Screenshots
 + ![poem builder in webStorm](screenshots/poem.js.png)
 
