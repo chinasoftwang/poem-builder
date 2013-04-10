@@ -1,13 +1,13 @@
 poem-builder
 ============
 
-a poem builder by javascript.
-现代诗器 作诗机
+a poem builder by javascript in IDE.
+现代诗器 作诗机，.js .html格式写诗，采用中文命名变量，一句诗即一个变量名，充分利用IDE的自动完成功能！
 
 ## Prime Poem Framework
 
 ./js/PrimePoemFramework
-质数诗歌框架 - 现在仅是一个概念，需要不断增加内容
+质数诗歌框架：js文件存放诗歌素材。 现在仅是一个概念，需要不断增加内容
 
 ## Screenshots
 + ![poem builder in webStorm](screenshots/poem.js.png)
