@@ -9,7 +9,7 @@ a poem builder by javascript in IDE(Webstorm,Dreamweaver,Eclipse,Aptana,NetBeans
 欢迎加入poem-builder项目,你可以上传编辑以下ftp URL中的文件：
 	
 	ftp://poemus:S73TuC3r@ftp.ace.aliyun.com:2222
-	http://poemus.aliapp.com
+	http://poemus.aliapp.com/poem-builder/
 
 友情提示：为了珍爱大家的成果，请不要轻易删除此ftp中的文件。
 ftp://poemus:S73TuC3r@ftp.ace.aliyun.com:2222/ 中的内容将定期更新到github
