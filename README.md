@@ -6,13 +6,16 @@ a poem builder by javascript in IDE(Webstorm,Dreamweaver,Eclipse,Aptana,NetBeans
 现代诗器，作诗机.
 采用.js .html格式写诗，中文命名变量，一句诗即一个变量名，充分利用IDE的自动提示和自动完成功能！
 
-欢迎加入poem-builder项目,你可以上传编辑以下ftp URL中的文件：
+欢迎加入poem-builder项目,你可以在Windows Explorer中把ftp://poemus:S73TuC3r@ftp.ace.aliyun.com:2222映射网络驱动器
+（点击 *连接到可用于存储文档和图片的网站*）,然后上传编辑其中的文件：
 	
 	ftp://poemus:S73TuC3r@ftp.ace.aliyun.com:2222
 	http://poemus.aliapp.com/poem-builder/
 
+
+
 友情提示：为了珍爱大家的成果，请不要轻易删除此ftp中的文件。
-ftp://poemus:S73TuC3r@ftp.ace.aliyun.com:2222/ 中的内容将定期更新到github
+此ftp中的内容将定期更新到github
 
 	诗歌交流平台 https://github.com/a-boy/poemus
 	现代诗器 https://github.com/a-boy/poem-builder
