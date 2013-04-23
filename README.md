@@ -22,10 +22,11 @@ a poem builder by javascript in IDE(Webstorm,Dreamweaver,Eclipse,Aptana,NetBeans
 
 ## Prime Poem Framework
 
-质数诗歌框架：是一个用js文件存储的诗歌素材库。内容正在不断更新中，你有兴趣参与吗？
+质数诗歌框架：是一个用js文件存储的诗歌素材库。内容正在不断更新中，期待你的参与！
 
 ## Screenshots
 + ![poem builder in webStorm](screenshots/poem-js.png)
++ ![poem-builder ftp in Windows Explorer](screenshots/poem-builder-ftp-net-use.png)
 
 ## Write poem with Javascript
 
